@@ -1,4 +1,4 @@
-# Python1
+ # Python1
 project1
 print("welcome to the tip calculator!")
 bill = float(input("What is the total bill? $"))
